@@ -24,3 +24,4 @@ env
 
 # scripts/build-docs-site output
 dist-docs/
+.DS_Store
